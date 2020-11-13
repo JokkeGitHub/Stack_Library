@@ -17,12 +17,12 @@ namespace Stack_Library
             // Here we create our "Book" objects
             Book book1 = new Book("How to clean your Pokemon", "Ying Lee");
             Book book2 = new Book("Kettle of the Witch", "Anders Bo Nielsen");
-            Book book3 = new Book("How glass is made", "Dick Butthead");
+            Book book3 = new Book("How glass is made", "Richard Buttons");
             Book book4 = new Book("When the dogs conquered the Moon", "Steven Fails the third");
             Book book5 = new Book("How to live for dummies", "Morgan Freeman");
             Book book6 = new Book("Failed Life", "Lise Lisen");
             Book book7 = new Book("How to destroy the world for dummies", "William Andersen");
-            Book book8 = new Book("Dance for downers", "Anders Fogh Rasmussen");
+            Book book8 = new Book("Dance for downers", "Anders Rasmussen");
             Book book9 = new Book("How to properly eat banana-mallow", "Bent Bendtsen");
 
             // Here we add our objects to the library list
